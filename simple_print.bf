@@ -1,5 +1,7 @@
 [ 
   A simple brainfuck program for printing out "joy".
+  
+  Author: Florian Baierl
 ]
 # initialize all cells with 70
 +++++ ++
